@@ -1,4 +1,4 @@
-### Hi there 👋 :D
+### Hi there 👋
 
 <!--
 **MarsK0/MarsK0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
