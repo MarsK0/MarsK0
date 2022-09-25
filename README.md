@@ -8,4 +8,4 @@
 
 ### 🎓 Formação:
 - 🧪 Concluí o curso técnico em química integrado ao médio, porém optei por não concluir a etapa de estágio e consequentemente a formação, migrando logo em seguida para a área de T.I, como analista de T.I;
-- 👨‍💻 Atualmente cursando [Desenvolvimento Full Stack Web](https://www.growdev.com.br/starter-2) na [®️GrowDev](https://www.growdev.com.br)
+- 👨‍💻 Atualmente cursando [Desenvolvimento Full Stack Web](https://www.growdev.com.br/starter-2) na [:registered:GrowDev](https://www.growdev.com.br)
