@@ -1,4 +1,4 @@
-# 👋😎 kk eae?!?
+# 👋😎 kk eae?!
 
 ## 👇 Aqui vai um pouco sobre mim 👇
 
