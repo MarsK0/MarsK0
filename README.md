@@ -14,7 +14,7 @@
 - 👨‍💻 Dois anos atuando na área de de T.I como analista de T.I.
 
 ### 📚 O que estou estudando atualmente:
-- Atualmente estou estudando a parte introdutória de Programação Web, na parte lógica das linguagens de programação.
+- Atualmente estou estudando JavaScript, na manipulação de DOMs.
 
     ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
